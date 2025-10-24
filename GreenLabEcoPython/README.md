@@ -24,9 +24,9 @@ GreenLabEcoPython is a collection of machine learning energy profiling experimen
 ### 1. Clone the repositories
 
 ```sh
-git clone https://github.com/S2-group/experiment-runner.git
+git clone https://github.com/cronopio1994/experiment-runner.git
 cd experiment-runner/
-# GreenLabEcoPython is inside this repo (GreenLabEcoPython/)
+GreenLabEcoPython is inside this repo (GreenLabEcoPython/), acting as the replication package
 ```
 
 ### 2. Install Experiment Runner
